@@ -32,10 +32,9 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                    Diana Eduardo Simon
                 </a>
             </div>
-
         </div>
     </nav>
 
